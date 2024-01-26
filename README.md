@@ -4,6 +4,8 @@
 ## Overview
 The Sensory Augmentation Device Project explores the use of haptic feedback to enhance human sensory perception, particularly in distance estimation. This research aims to investigate how different types of vibration feedback can augment an individual's ability to accurately perceive distances in various contexts.
 
+Check out more information on my [engineering website](https://marcopo1o.github.io/engineer/).
+
 ## Repository Contents
 This repository contains the Arduino code used in the development of four iterations of the Sensory Augmentation Device. Each iteration represents a refinement in the design and functionality of the device, aiming to explore the most effective methods of sensory enhancement.
 
